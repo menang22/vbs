@@ -1,3 +1,3 @@
 # Vbs
-```shell
+```python
 Tools kumpulan script vbs di windows
