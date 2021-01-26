@@ -1,3 +1,3 @@
 # Vbs
 Tools kumpulan script vbs di windows
-![s](
+<button onclick="alert('ok thanks')"
