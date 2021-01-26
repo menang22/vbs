@@ -1,3 +1,3 @@
 # Vbs
-```python
+```php
 Tools kumpulan script vbs di windows
