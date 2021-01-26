@@ -1,0 +1,4 @@
+@echo off
+cls
+rem import base64win
+rem exec(enc(((fkfjfydyldydjdysylyldufififidiglhdusyawyqytkfkhlflhkhljfuyslftdhfjfjdjhkdgayaggjsjgkdglgjdjdjfjfjdudisyshfkdgsjfkdjdjflfjfkfkglgud)))
